@@ -8,7 +8,7 @@
 
 A profile focused on defensive security, log analysis, and the reflexes of a retro arcade game.
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&logo=retroarch&logoColor=white)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&logo=atari&logoColor=white)
 ![Mode](https://img.shields.io/badge/MODE-BLUE_TEAM-00D4FF?style=for-the-badge&logo=securityscorecard&logoColor=white)
 ![Focus](https://img.shields.io/badge/FOCUS-DETECTION_%26_HARDENING-FFB347?style=for-the-badge&logo=nintendo&logoColor=black)
 
