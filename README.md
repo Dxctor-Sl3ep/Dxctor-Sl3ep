@@ -1,16 +1,18 @@
 <div align="center">
-  <h2>👨‍💻 root@Dxctor-Sl3ep:~# _</h2>
+  <h2>👨‍💻 root@Mathias-DM:~# _</h2>
+  <p><i>"Analyse rapide, prise de décision sous pression et goût du challenge."</i></p>
 </div>
 
 ```console
-Dxctor-Sl3ep@github:~$ ./display_profile.sh
+Mathias@github:~$ ./display_profile.sh
 [INFO] LOADING USER PROFILE...
-[ OK ] ROLE: [Ton Rôle, ex: Développeur Junior / Étudiant]
-[ OK ] LEVEL: [Ton niveau, ex: Licence Informatique / TryHackMe]
-[ OK ] BACKGROUND: [Ton parcours, ex: Réseaux & Systèmes]
-[ OK ] FOCUS: [Ce qui t'intéresse, ex: Automatisation, Dev Web, IA]
+[ OK ] ROLE: Futur Analyste SOC (Recherche d'alternance - Août 2026)
+[ OK ] LEVEL: Bachelor 3 Informatique @ EPSI
+[ OK ] BACKGROUND: Administration Systèmes & Réseaux
+[ OK ] FOCUS: Cybersécurité Défensive, Hardening, Analyse de logs
 
-Dxctor-Sl3ep@github:~$ cat stack_check.log
-> Automatisation : Python, Bash, PowerShell
-> Développement  : JavaScript, C++, HTML/CSS
-> Outils         : Docker, Git, Linux
+Mathias@github:~$ cat stack_check.log
+> Scripting      : Bash, Python, C
+> Infrastructure : Proxmox, OPNsense, TCP/IP, VLAN
+> Systèmes       : Linux, Windows (Hardening)
+> Cybersécurité  : TryHackMe, Analyse SOC, Bases Pentest
