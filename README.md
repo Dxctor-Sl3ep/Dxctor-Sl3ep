@@ -2,21 +2,23 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 
-# Player Spawn Point
+<img src="https://readme-typing-svg.demolab.com/?lines=Player+Spawn+Point;Press+Start+To+Enter;SOC+Analyst+%7C+Blue+Team+%7C+Retro+HUD&center=true&vCenter=true&width=720&height=50&color=00F5FF&pause=1200&size=22&repeat=true" alt="Typing animation" />
+
+<h1 align="center"><span style="color:#00F5FF">Player</span> <span style="color:#FFB347">Spawn</span> <span style="color:#00D46A">Point</span></h1>
 
 `SOC analyst path | System & Network background | Blue Team mindset`
 
 A profile focused on defensive security, log analysis, and the reflexes of a retro arcade game.
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&logo=atari&logoColor=white)
-![Mode](https://img.shields.io/badge/MODE-BLUE_TEAM-00D4FF?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-007A3D?style=for-the-badge&logo=atari&logoColor=white)
+![Mode](https://img.shields.io/badge/MODE-BLUE_TEAM-0057B8?style=for-the-badge&logo=securityscorecard&logoColor=white)
 ![Focus](https://img.shields.io/badge/FOCUS-DETECTION_%26_HARDENING-FFB347?style=for-the-badge&logo=nintendo&logoColor=black)
 
 </div>
 
 ---
 
-## Player Profile
+<h2 align="center"><span style="color:#00D4FF">Player Profile</span></h2>
 
 ```console
 Mathias@arcade:~$ ./boot_profile.sh
@@ -38,7 +40,7 @@ Mathias@arcade:~$ cat stack_check.log
 
 ---
 
-## Player Certification
+<h2 align="center"><span style="color:#FFB347">Player Certification</span></h2>
 
 <div align="center">
   <img src="./Images/THMScore.png" alt="TryHackMe profile card" width="820" />
@@ -46,7 +48,7 @@ Mathias@arcade:~$ cat stack_check.log
 
 ---
 
-## Player Perks
+<h2 align="center"><span style="color:#00D46A">Player Perks</span></h2>
 
 ![Python](https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-8F5CFF?style=for-the-badge&logo=powershell&logoColor=white)
@@ -61,16 +63,16 @@ Mathias@arcade:~$ cat stack_check.log
 
 ---
 
-## Main Quests
+<h2 align="center"><span style="color:#00F5FF">Main Quests</span></h2>
 
-- Strengthen my SOC automation scripts (Python + PowerShell)
+- Strengthen my SOC automation scripts
 - Improve my detection workflow and triage speed
 - Keep progressing through hands-on labs and real incident scenarios
 - Maintain a visual style that feels arcade, neon, and readable
 
 ---
 
-## Contact
+<h2 align="center"><span style="color:#FFB347">Contact</span></h2>
 
 <div align="center">
 
