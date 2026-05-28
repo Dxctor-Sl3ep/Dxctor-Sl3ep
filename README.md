@@ -4,7 +4,11 @@
 
 `SOC analyst path | System & Network background | Blue Team mindset`
 
-A profile focused on defensive security, log analysis, hardening, and practical labs.
+Un profil axe sur la securite defensive et l'analyse de logs.
+
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00C853?style=for-the-badge&logo=linux&logoColor=white)
+![Mode](https://img.shields.io/badge/MODE-BLUE_TEAM-0288D1?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Focus](https://img.shields.io/badge/FOCUS-DETECTION_%26_HARDENING-263238?style=for-the-badge&logo=datadog&logoColor=white)
 
 </div>
 
@@ -15,10 +19,13 @@ A profile focused on defensive security, log analysis, hardening, and practical 
 ```console
 Mathias@github:~$ ./display_profile.sh
 [INFO] LOADING USER PROFILE...
+[ OK ] INITIALIZING MONITORING STACK...
 [ OK ] ROLE: Future SOC Analyst (Alternance target - Aug 2026)
 [ OK ] LEVEL: Bachelor 3 Informatique @ EPSI
 [ OK ] BACKGROUND: System and Network Administration
 [ OK ] FOCUS: Defensive Security, Hardening, Log Analysis
+[ OK ] TELEMETRY: Sysmon, Windows Event Logs, Linux auth.log
+[ OK ] STATUS: READY FOR INCIDENT TRIAGE
 
 Mathias@github:~$ cat stack_check.log
 > Languages      : Python, C, C#, JavaScript, SQL, Bash
@@ -52,16 +59,17 @@ Mathias@github:~$ cat stack_check.log
 
 ---
 
-## Current Objectives
+## Objectifs actuels
 
-- Build stronger SOC automation scripts (Python + PowerShell)
-- Improve detection engineering workflow and triage speed
-- Keep progressing on practical labs and real incident scenarios
+- Renforcer mes scripts d'automatisation SOC (Python + PowerShell)
+- Ameliorer mon flux de detection et ma vitesse de triage
+- Continuer a progresser sur des laboratoires pratiques et des scenarios d'incident reels
 
 ---
 
 ## Contact
 
-- LinkedIn: to add
-- TryHackMe: to add
-- GitHub: you are here
+- LinkedIn: [Mathias De Meuleneire](https://www.linkedin.com/in/mathias-de-meuleneire-2788b7333/)
+- TryHackMe: [dxctorsl3ep](https://tryhackme.com/p/dxctorsl3ep)
+- GitHub: you are here (Dxctor-Sl3ep)
+
