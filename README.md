@@ -2,11 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Player+Spawn+Point;Press+Start+To+Enter;SOC+Analyst+%7C+Blue+Team+%7C+Retro+HUD&center=true&vCenter=true&width=720&height=50&color=00F5FF&pause=1200&size=22&repeat=true" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Player+Spawn+Point;Press+Start+To+Enter;Blue+Team+%7C+Defensive+Cyber+%7C+Retro+HUD&center=true&vCenter=true&width=720&height=50&color=00F5FF&pause=1200&size=22&repeat=true" alt="Typing animation" />
 
 <h1 align="center"><span style="color:#00F5FF">Player</span> <span style="color:#FFB347">Spawn</span> <span style="color:#00D46A">Point</span></h1>
 
-`SOC analyst path | System & Network background | Blue Team mindset`
+`Blue Team path | System & Network background | Defensive cyber mindset`
 
 A profile focused on defensive security, log analysis, and the reflexes of a retro arcade game.
 
@@ -24,7 +24,7 @@ A profile focused on defensive security, log analysis, and the reflexes of a ret
 Mathias@arcade:~$ ./boot_profile.sh
 [INFO] INSERT COIN...
 [ OK ] POWERING UP HUD...
-[ OK ] ROLE: Future SOC Analyst (apprenticeship target - Aug 2026)
+[ OK ] ROLE: Future Blue Team (apprenticeship target - Aug 2026)
 [ OK ] LEVEL: Bachelor 3 in Computer Science @ EPSI
 [ OK ] BACKGROUND: Systems and Network Administration
 [ OK ] FOCUS: Defensive Security, Hardening, Log Analysis
@@ -35,7 +35,7 @@ Mathias@arcade:~$ cat stack_check.log
 > Languages      : Python, C, C#, JavaScript, SQL, Bash
 > Frameworks     : Django
 > Infrastructure : Proxmox, OPNsense, TCP/IP, VLAN
-> Security       : TryHackMe, SOC analysis, pentest fundamentals
+> Security       : TryHackMe, Blue Team, pentest fundamentals
 ```
 
 ---
@@ -65,7 +65,7 @@ Mathias@arcade:~$ cat stack_check.log
 
 <h2 align="center"><span style="color:#00F5FF">Main Quests</span></h2>
 
-- Strengthen my SOC automation scripts
+- Strengthen my defensive automation scripts
 - Improve my detection workflow and triage speed
 - Keep progressing through hands-on labs and real incident scenarios
 - Maintain a visual style that feels arcade, neon, and readable
