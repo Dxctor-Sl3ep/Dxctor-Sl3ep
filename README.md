@@ -50,16 +50,16 @@ Mathias@arcade:~$ cat stack_check.log
 
 <h2 align="center"><span style="color:#00D46A">Player Perks</span></h2>
 
-![Python](https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-8F5CFF?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-050816?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFE66D?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-00D46A?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux_Admin-FFB000?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-00C2FF?style=for-the-badge&logo=windows&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-1F2340?style=for-the-badge&logo=cloudflare&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4DE3FF?style=for-the-badge&logo=mysql&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-1F2340?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
