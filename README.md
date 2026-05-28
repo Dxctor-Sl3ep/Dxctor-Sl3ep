@@ -9,8 +9,8 @@
 Un profil axe sur la securite defensive, l'analyse de logs et les reflexes d'un jeu d'arcade retro.
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF66?style=for-the-badge&logo=retroarch&logoColor=white)
-![Mode](https://img.shields.io/badge/MODE-BLUE_TEAM-00A8FF?style=for-the-badge&logo=shielddotjs&logoColor=white)
-![Focus](https://img.shields.io/badge/FOCUS-DETECTION_%26_HARDENING-FFB000?style=for-the-badge&logo=gamepad&logoColor=black)
+![Mode](https://img.shields.io/badge/MODE-BLUE_TEAM-00A8FF?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Focus](https://img.shields.io/badge/FOCUS-DETECTION_%26_HARDENING-FFB000?style=for-the-badge&logo=nintendo&logoColor=black)
 
 </div>
 
