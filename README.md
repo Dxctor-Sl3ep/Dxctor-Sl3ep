@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>👨‍💻 root@Mathias-DM:~# _</h2>
+  <h2>👨‍💻 root@Mathias:~# _</h2>
   <p><i>"Analyse rapide, prise de décision sous pression et goût du challenge."</i></p>
 </div>
 
@@ -12,7 +12,8 @@ Mathias@github:~$ ./display_profile.sh
 [ OK ] FOCUS: Cybersécurité Défensive, Hardening, Analyse de logs
 
 Mathias@github:~$ cat stack_check.log
-> Scripting      : Bash, Python, C
+> Langages       : Python, C, C#, JavaScript, SQL, Bash
+> Frameworks     : Django
 > Infrastructure : Proxmox, OPNsense, TCP/IP, VLAN
-> Systèmes       : Linux, Windows (Hardening)
 > Cybersécurité  : TryHackMe, Analyse SOC, Bases Pentest
+src="./Images/THMScore.png"
