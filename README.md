@@ -14,7 +14,7 @@ Un profil axe sur la securite defensive et l'analyse de logs.
 
 ---
 
-## Live Profile Snapshot
+## Live Profile
 
 ```console
 Mathias@github:~$ ./display_profile.sh
